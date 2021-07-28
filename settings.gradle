@@ -1,0 +1,5 @@
+rootProject.name = 'restdocs-assistant'
+
+include 'restdocs-assistant'
+include 'restdocs-assistant-example'
+

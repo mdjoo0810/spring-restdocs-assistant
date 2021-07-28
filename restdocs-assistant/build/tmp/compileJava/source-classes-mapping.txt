@@ -1,0 +1,6 @@
+kr/aaron/restdocs_assistant/Assistant.java
+ kr.aaron.restdocs_assistant.Assistant
+kr/aaron/restdocs_assistant/annotation/RestDocsProperty.java
+ kr.aaron.restdocs_assistant.annotation.RestDocsProperty
+kr/aaron/restdocs_assistant/ResponseAssistant.java
+ kr.aaron.restdocs_assistant.ResponseAssistant
